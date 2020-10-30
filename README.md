@@ -6,6 +6,10 @@ testing github
 Ok just regular text
 **text**
 
+1. first
+2. second
+
+
 * text
 * also text
 
